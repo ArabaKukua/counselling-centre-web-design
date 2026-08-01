@@ -28,17 +28,13 @@ Content Strategist
 
 ## Timeline
 
-2025
+2024 - 2025
 
 ---
 
 ## Tools
 
-Figma
-
-Adobe Photoshop
-
-Canva
+Wix Editor
 
 Google Workspace
 
@@ -46,7 +42,7 @@ Google Workspace
 
 ## The Problem
 
-The existing website contained a large amount of information but could be overwhelming for users looking for counselling services.
+The existing website contained a large amount of information but could be overwhelming for users looking for counselling services.The existing website also had not been updated since 2010.
 
 Several opportunities existed to improve navigation, readability, accessibility, and overall user experience.
 
@@ -78,23 +74,28 @@ I also considered accessibility principles and how individuals experiencing stre
 
 ### Information Architecture
 
-Explain...
+I scoured several competing websites for information architecture and found the most necessary pages. Next is the linking. I used the matrix architecture in order to ensure page connectivity and ease of accessibility. 
 
 ### Wireframes
 
-Explain...
+I started by drawing out by hand the structure of the pages in several design ideations and had the employer confirm the design options that worked the best for them, while keeping in mind conformity with other website features, since ease of navigation is an important factor in usability.
 
 ### High Fidelity Design
 
-Explain...
+After validating the overall structure of the website, I translated the wireframes into polished page layouts using the Wix Editor.
+
+The final interface emphasized a calming visual aesthetic, clear typography, accessible colour choices, and intuitive navigation to support individuals seeking counselling services.
+
+Soft blues and greens were selected to communicate trust, calmness, and emotional safety. This also matches the landscape of the land and natural resources of the province. Large headings and generous spacing improve readability for visitors who may already be experiencing stress or anxiety.Primary navigation was simplified to help users quickly locate counselling services, therapist information, and contact details. Negative space was intentionally used to reduce cognitive load and create a clean, welcoming experience. In addition, the background colour was adjusted to a warner cream colour to aid in visual strain as well as feel warmer, like sunlight. Buttons were positioned consistently throughout the website to encourage users to book appointments or contact the counselling centre. Layouts were reviewed and adjusted within Wix Editor to ensure content remained readable and functional across desktop and mobile devices.
+
 
 ### Accessibility
 
-Explain...
+Through work with SEO, I learned a lot about accessibility from the standpoint of the function of the website, not simply the design of the feature. Text to speech, Alt text, Image descriptions and design considerations such as high colour contrast were all parts of accesibility considerations I did. It is a really important part of my approach to work since I believe a variety of people need to be able to use the products I put out. 
 
 ### Final Design
 
-Explain...
+The website created is airdriecounsellingcentre.com. Feel free to visit and access the necessary services. 
 
 ---
 
