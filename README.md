@@ -88,8 +88,8 @@ The final interface emphasized a calming visual aesthetic, clear typography, acc
 
 Soft blues and greens were selected to communicate trust, calmness, and emotional safety. This also matches the landscape of the land and natural resources of the province. Large headings and generous spacing improve readability for visitors who may already be experiencing stress or anxiety.Primary navigation was simplified to help users quickly locate counselling services, therapist information, and contact details. Negative space was intentionally used to reduce cognitive load and create a clean, welcoming experience. In addition, the background colour was adjusted to a warner cream colour to aid in visual strain as well as feel warmer, like sunlight. Buttons were positioned consistently throughout the website to encourage users to book appointments or contact the counselling centre. Layouts were reviewed and adjusted within Wix Editor to ensure content remained readable and functional across desktop and mobile devices.
 
-![Homepage](images/[homepage.png](https://github.com/ArabaKukua/counselling-centre-web-design/edit/main/README.md#:~:text=08%2D01%20at-,4.47.05,-PM.png))
-![Homepage](images/[homepage.png](https://github.com/ArabaKukua/counselling-centre-web-design/edit/main/README.md#:~:text=Shot%202026%2D08%2D-,01,-at%204.47.51%20PM))
+![Homepage](images/(https://github.com/ArabaKukua/counselling-centre-web-design/edit/main/README.md#:~:text=08%2D01%20at-,4.47.05,-PM.png))
+![Homepage](images/(https://github.com/ArabaKukua/counselling-centre-web-design/edit/main/README.md#:~:text=Shot%202026%2D08%2D-,01,-at%204.47.51%20PM))
 ![Homepage](images/https://github.com/ArabaKukua/counselling-centre-web-design/edit/main/README.md#:~:text=08%2D01%20at-,4.48.18,-PM.png)
 
 
