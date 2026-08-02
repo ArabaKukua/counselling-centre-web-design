@@ -42,10 +42,13 @@ Google Workspace
 
 ## The Problem
 
-The existing website contained a large amount of information but could be overwhelming for users looking for counselling services.The existing website also had not been updated since 2010.
+The existing website contained a large amount of information but could be overwhelming for users looking for counselling services. The existing website also had not been updated since 2010.
 
 Several opportunities existed to improve navigation, readability, accessibility, and overall user experience.
 
+<img width="1060" height="686" alt="Screen Shot 2023-11-15 at 11 04 42 AM" src="https://github.com/user-attachments/assets/670d8247-d09f-44ea-a80a-faace15d3c5a" />
+<img width="1018" height="642" alt="Screen Shot 2023-11-15 at 11 04 12 AM" src="https://github.com/user-attachments/assets/a89b92a1-71a6-48e6-ad4a-c58c4add14b7" />
+<img width="1101" height="467" alt="Screen Shot 2023-11-15 at 11 04 32 AM" src="https://github.com/user-attachments/assets/5569c91d-eeaa-4e45-bc21-722a733774d6" />
 
 
 ---
