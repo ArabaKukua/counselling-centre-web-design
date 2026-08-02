@@ -93,6 +93,10 @@ Soft blues and greens were selected to communicate trust, calmness, and emotiona
 <img width="2560" height="1328" alt="Homepage" src="https://github.com/user-attachments/assets/651484f7-def9-4aa0-be5f-a5268ac7bb62" />
 <img width="2560" height="1321" alt="about" src="https://github.com/user-attachments/assets/45d59e19-ab71-4c95-a4c4-ef97b18323fe" />
 <img width="2560" height="1327" alt="contact" src="https://github.com/user-attachments/assets/1df30413-ec61-49c5-b884-15cd841b60ea" />
+<img width="321" height="1195" alt="Screen Shot 2026-08-01 at 6 30 22 PM" src="https://github.com/user-attachments/assets/8abbfb1e-83f5-4eb6-8cab-6e63c11413ee" />
+<img width="315" height="1162" alt="Screen Shot 2026-08-01 at 6 30 45 PM" src="https://github.com/user-attachments/assets/695d2087-f595-4e82-b3ea-4ad430e4f8b3" />
+
+
 
 
 
