@@ -85,6 +85,9 @@ I scoured several competing websites for information architecture and found the 
 
 I started by drawing out by hand the structure of the pages in several design ideations and had the employer confirm the design options that worked the best for them, while keeping in mind conformity with other website features, since ease of navigation is an important factor in usability.
 
+<img width="3024" height="4032" alt="IMG_2296" src="https://github.com/user-attachments/assets/00045abc-79b2-434f-a94d-f907a9073df2" />
+<img width="3024" height="4032" alt="IMG_2297" src="https://github.com/user-attachments/assets/53054e6f-7e74-4207-8d02-7bc17110eb3e" />
+
 ### High Fidelity Design
 
 After validating the overall structure of the website, I translated the wireframes into polished page layouts using the Wix Editor.
