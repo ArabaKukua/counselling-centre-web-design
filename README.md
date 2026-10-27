@@ -1,6 +1,16 @@
 # Airdrie Counselling Centre Website Redesign
 
-UX/UI Design Case Study
+**UX/UI Design Case Study | Araba Adenu-Mensah, UX/UI & Graphic Designer, Lethbridge, AB**
+
+A redesign to make counselling services easier to find, understand, and trust, with simplified navigation, improved readability and accessibility, and a welcoming, mobile-friendly experience.
+
+- **My role:** UX Designer, Visual Designer, UX Researcher, Information Architect, Content Strategist
+- **Tools:** Wix Editor, Google Workspace
+- **Focus:** Navigation, accessibility, trust, and mobile experience
+
+[LinkedIn: linkedin.com/in/araba-mensah](https://linkedin.com/in/araba-mensah) · [GitHub: github.com/ArabaKukua](https://github.com/ArabaKukua)
+
+---
 
 ---
 
